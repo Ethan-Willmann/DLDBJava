@@ -7,11 +7,11 @@ The application allows users to input license plate data, checks its validity, a
 This project was made for a class to demonstrate my programming skills. It is not intended for editing.
 
 ## How It Works
-* _User Input:_ Users enter license plate information into text fields.
-* _Validation:_ The program checks whether the license plate follows the correct format for Kansas or Missouri and whether it has already been entered.
-* _Error Handling:_ If the data is invalid, a message will notify the user of the issue and display the correct format for the license plate.
-* _Data Storage:_ If valid, the license plate is stored as an object and written to a file.
-* _Display Data:_ Users can print the list of all entered license plates by clicking the "Print List" button.
+* __User Input:__ Users enter license plate information into text fields.
+* __Validation:__ The program checks whether the license plate follows the correct format for Kansas or Missouri and whether it has already been entered.
+* __Error Handling:__ If the data is invalid, a message will notify the user of the issue and display the correct format for the license plate.
+* __Data Storage:__ If valid, the license plate is stored as an object and written to a file.
+* __Display Data:__ Users can print the list of all entered license plates by clicking the "Print List" button.
 
 ## Features
 * GUI for user interaction
