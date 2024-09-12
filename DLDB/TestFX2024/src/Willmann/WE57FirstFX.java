@@ -4,7 +4,6 @@ import java.util.ArrayList;
 
 /**
  * FirstFX.java
- * A simple JavaFX program for setup testing
  * CS252
  */
 
@@ -196,7 +195,7 @@ public class WE57FirstFX extends Application {
   } // end start()
 
   public static void main(String[] args) {
-    launch(args); // Run this Application.
+    launch(args);
   }
 
 } // end class FirstFX
